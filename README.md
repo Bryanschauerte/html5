@@ -2,15 +2,15 @@
 
 ### Semantic elements
 
-- <nav/>
-- <title/>
-- <header/>
-- <article/>
-- <section/>
-- <aside/>
-- <figure/>
-- <dialog/>
-- <footer/>
+- `<nav/>`
+- `<title/>`
+- `<header/>`
+- `<article/>`
+- `<section/>`
+- `<aside/>`
+- `<figure/>`
+- `<dialog/>`
+- `<footer/>`
 
 Makes reading html much cleaner and easier to scan to appropriate sections.
 
