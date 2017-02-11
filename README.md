@@ -34,7 +34,8 @@ Accessible with css like so...
    or javascript magic
 ```javascript
 var targetElem = document.getElementById("html5Container");
-var isHowCool = targetElem.getAttribute('coolness');```
+var isHowCool = targetElem.getAttribute('coolness');
+```
 
 Yes, you can have multiple.
 
