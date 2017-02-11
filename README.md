@@ -59,7 +59,7 @@ Yeah... That might be handy..
 Run script asynchronously after the file loads. If it fails to load, it dies silently. Goodbye unresponsive script message... Want a thing to be awesome? -> Make your thing a progressive web app... (https://developers.google.com/web/progressive-web-apps/)
 
 ## Some other changes that might be helpful to know...
-  *Tags can be uppercase now.
-  *Attributes values dont have to be surrounded with quotes.
-  *Don't need to close empty tags (but.. you totally still should)
-  *'type' on your script/style tag is no longer needed.
+  - Tags can be uppercase now.
+  - Attributes values dont have to be surrounded with quotes.
+  - Don't need to close empty tags (but.. you totally still should)
+  - 'type' on your script/style tag is no longer needed.
