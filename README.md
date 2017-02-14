@@ -43,6 +43,8 @@ Yes, you can have multiple.
 
 `<p contenteditable="true">I can be edited!<p>`
 
+Pretty much the most useless thing ever. I tired to find just one good use case. So far, just the creating of WYSIWYGs. Other than that, poor api and browsers dont seem to like it either.
+
 #### background
 Add an image directly to the background of an element, splash in some style, botta-bing you got a pretty/well sized background.
 **Lots of other styling attributes as well**
